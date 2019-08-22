@@ -6,7 +6,7 @@ Escrito na linguagem C com paralelização do código com OpenMP (https://www.op
 Por favor, referencie a seguinte dissertação de mestrado para detelhes sobre a metodologia
 de calibração hierarquica multiobjetivo:
 
-VAREJ~AO-JR, Claudeci Gomes, M. S., Universidade Federal de Viçosa, Abril de 2009. Calibração hierarquica multiobjetivo de um modelo de micrometeorologia e de dinâamica de ecossistemas terrestres. 
+VAREJÃO-JR, Claudeci Gomes, M. S., Universidade Federal de Viçosa, Abril de 2009. Calibração hierarquica multiobjetivo de um modelo de micrometeorologia e de dinâamica de ecossistemas terrestres. 
 
 Orientador: Marcos Heil Costa. 
 
